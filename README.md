@@ -1,1 +1,1 @@
-# Dark-light-theme-switcher
+Switch display from light mode to dark mode or vice versa with a click.
